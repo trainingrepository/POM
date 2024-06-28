@@ -30,7 +30,7 @@ public class BaseClass {
 	
 	@AfterMethod
 	public  void postcondition() {
-		// close browser
+		// close browser update
 		driver1.close();
 	}
 }
